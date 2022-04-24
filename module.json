@@ -26,5 +26,12 @@
          "url": "https://www.vtta.io/tools/shared-module"
       }
    ],
-   "download": "https://api.vtta.io/tools/shared-module/download?id=62652292e996f6f1be091e97"
+   "packs": [],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://github.com/thebutaman/FoundryModule/blob/main/module.json",
+  "download": "https://github.com/thebutaman/FoundryModule/archive/refs/heads/main.zip",
+  "protected": false,
+  "coreTranslation": false
 }
