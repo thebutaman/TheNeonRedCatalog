@@ -13,7 +13,7 @@
          "path":"packs/TheNeonRedCatalogCyberware.db",
          "entity":"Item",
          "module":null
-      }
+      },
       {
          "name":"TheNeonRedCatalogWeapons",
          "label":"The Neon Red Catalog Weapons",
