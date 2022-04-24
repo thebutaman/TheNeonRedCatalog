@@ -1,6 +1,6 @@
 {
    "name":"TheNeonRedCatalog",
-   "title":"The Neon Red Catalog",
+   "title":"The Neon Red Catalog (Cyberpunk RED)",
    "description":"Unofficial Homebrew for Cyberpunk RED",
    "version":"1.0.0",
    "author":"TheButaMan",
@@ -21,8 +21,8 @@
       }
    ],
    "socket":false,
-   "manifest":"https://github.com/thebutaman/FoundryModule/archive/refs/heads/module.json",
-   "download":"https://github.com/thebutaman/FoundryModule/archive/refs/heads/main.zip",
+   "manifest":"https://raw.githubusercontent.com/thebutaman/TheNeonRedCatalog/main/module.json",
+   "download":"https://github.com/thebutaman/TheNeonRedCatalog/archive/refs/heads/main.zip",
    "protected":false,
    "coreTranslation":false
 }
