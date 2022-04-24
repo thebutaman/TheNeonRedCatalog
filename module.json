@@ -21,7 +21,7 @@
       }
    ],
    "socket":false,
-   "manifest":"https://raw.githubusercontent.com/thebutaman/FoundryModule/main/module.json",
+   "manifest":"https://github.com/thebutaman/FoundryModule/archive/refs/heads/module.json",
    "download":"https://github.com/thebutaman/FoundryModule/archive/refs/heads/main.zip",
    "protected":false,
    "coreTranslation":false
