@@ -1,0 +1,30 @@
+{
+   "name": "TheNeonRedCatalog",
+   "title": "The Neon Red Catalog",
+   "description": "Unofficial Homebrew for Cyberpunk RED",
+   "version": "1.0.0",
+   "author": "TheButaMan <bcohendonnel@gmail.com>",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion": "9",
+   "packs": [
+      {
+         "name": "TheNeonRedCatalogCyberware",
+         "label": "The Neon Red Catalog Cyberware",
+         "path": "packs/TheNeonRedCatalogCyberware.db",
+         "entity": "Item",
+         "module": null
+      }
+   ],
+   "authors": [
+      {
+         "name": "TheButaMan",
+         
+      },
+      {
+         "name": "VTTA.io",
+         "email": "Do Not Mail Here <shared-module-generator@vtta.io>",
+         "url": "https://www.vtta.io/tools/shared-module"
+      }
+   ],
+   "download": "https://api.vtta.io/tools/shared-module/download?id=62652292e996f6f1be091e97"
+}
