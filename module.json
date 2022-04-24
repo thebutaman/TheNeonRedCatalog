@@ -1,29 +1,28 @@
 {
-   "name": "TheNeonRedCatalog",
-   "title": "The Neon Red Catalog",
-   "description": "Unofficial Homebrew for Cyberpunk RED",
-   "version": "1.0.0",
-   "author": "TheButaMan",
-   "minimumCoreVersion": "0.5.0",
-   "compatibleCoreVersion": "9",
-   "packs": [
+   "name":"TheNeonRedCatalog",
+   "title":"The Neon Red Catalog",
+   "description":"Unofficial Homebrew for Cyberpunk RED",
+   "version":"1.0.0",
+   "author":"TheButaMan",
+   "minimumCoreVersion":"0.5.0",
+   "compatibleCoreVersion":"9",
+   "packs":[
       {
-         "name": "TheNeonRedCatalogCyberware",
-         "label": "The Neon Red Catalog Cyberware",
-         "path": "packs/TheNeonRedCatalogCyberware.db",
-         "entity": "Item",
-         "module": null
+         "name":"TheNeonRedCatalogCyberware",
+         "label":"The Neon Red Catalog Cyberware",
+         "path":"packs/TheNeonRedCatalogCyberware.db",
+         "entity":"Item",
+         "module":null
       }
    ],
-   "authors": [
+   "authors":[
       {
-         "name": "TheButaMan",
-         
-      },
+         "name":"TheButaMan"
+      }
    ],
-  "socket": false,
-  "manifest": "https://raw.githubusercontent.com/thebutaman/FoundryModule/main/module.json",
-  "download": "https://github.com/thebutaman/FoundryModule/archive/refs/heads/main.zip",
-  "protected": false,
-  "coreTranslation": false
+   "socket":false,
+   "manifest":"https://raw.githubusercontent.com/thebutaman/FoundryModule/main/module.json",
+   "download":"https://github.com/thebutaman/FoundryModule/archive/refs/heads/main.zip",
+   "protected":false,
+   "coreTranslation":false
 }
