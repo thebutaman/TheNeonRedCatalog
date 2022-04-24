@@ -21,8 +21,8 @@
       }
    ],
    "socket":false,
-   "manifest":"https://raw.githubusercontent.com/thebutaman/FoundryModule/The-Neon-Red-Catalog/module.json",
-   "download":"https://github.com/thebutaman/FoundryModule/archive/refs/heads/main.zip",
+   "manifest":"https://raw.githubusercontent.com/thebutaman/TheNeonRedCatalog/main/module.json",
+   "download":"https://github.com/thebutaman/TheNeonRedCatalog/archive/refs/heads/main.zip",
    "protected":false,
    "coreTranslation":false
 }
