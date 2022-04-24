@@ -3,7 +3,7 @@
    "title": "The Neon Red Catalog",
    "description": "Unofficial Homebrew for Cyberpunk RED",
    "version": "1.0.0",
-   "author": "TheButaMan <bcohendonnel@gmail.com>",
+   "author": "TheButaMan",
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion": "9",
    "packs": [
