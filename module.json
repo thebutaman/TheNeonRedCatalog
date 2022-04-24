@@ -24,7 +24,7 @@
   "system": [],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://github.com/thebutaman/FoundryModule/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/thebutaman/FoundryModule/main/module.json",
   "download": "https://github.com/thebutaman/FoundryModule/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false
